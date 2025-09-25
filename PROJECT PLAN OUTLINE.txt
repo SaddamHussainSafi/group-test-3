@@ -8,11 +8,8 @@ Class: CSD230: Advanced Web Development
 Team Members:
 
 Ashutosh Mishra
-
 Saddam Hussain Safi
-
 Sandip Khatri
-
 Nimesh Neupane
 
 2. Project Goal
