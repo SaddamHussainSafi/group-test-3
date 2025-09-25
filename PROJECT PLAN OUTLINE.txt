@@ -1,30 +1,19 @@
-3. Roles and Responsibilities
+7. Risk Assessment
 
-Saddam Hussain Safi – Team Leader & Front-End Developer
-Oversees project progress, manages GitHub repository, and implements Bootstrap-based responsive UI.
+Technical Risks: Responsive issues across devices → Mitigation: Thorough cross-browser/device testing.
 
-Ashutosh Mishra – Back-End & Database Developer
-Handles server-side logic, potential database setup, and data integration for shelters and pets.
+Timeline Risks: Delays due to workload → Mitigation: Weekly milestones and progress reviews.
 
-Nimesh Neupane – UI/UX Designer & Documentation Lead
-Designs layouts, applies custom CSS, ensures usability, and manages project documentation.
+Collaboration Risks: Miscommunication → Mitigation: Clear task assignment and weekly meetings.
 
-Sandip Khatri – Testing & Quality Assurance Lead
-Conducts testing, debugging, and ensures responsiveness and quality across devices.
+Knowledge Risks: Limited back-end expertise → Mitigation: Focus on front-end first, simplify back-end scope if needed.
 
-4. Project Elements
+8. Communication and Work Plan
 
-User Interface: Responsive layout with Bootstrap grid system.
-Navbar & Footer: Navigation with branding and copyright modal.
-Hero Section: Background image with centered text about pet adoption.
-Three-Column Section: Categories (Dogs, Cats, Others) with images, descriptions, and adoption details.
-Modal Pop-Ups: Additional information on adoption or pet profiles.
-Custom CSS Styling: Enhancing Bootstrap design with unique branding.
+Collaboration Tools: GitHub for version control, Google Docs for documentation.
 
-5. Tools, Frameworks, and Libraries
+Communication Tools: WhatsApp/Slack for daily updates, Zoom/Google Meet for weekly meetings.
 
-Front-End: HTML, CSS, Bootstrap, JavaScript
-Version Control: GitHub
-Editor: Visual Studio Code
-Browser Testing: Chrome, Firefox, Edge
-Optional Back-End: Node.js / PHP with MySQL (if required for dynamic data)
+Meeting Schedule: Weekly team check-ins; emergency meetings as needed.
+
+Reporting Structure: Team leader gathers updates and ensures all tasks are aligned with the timeline.
