@@ -1,0 +1,18 @@
+PROJECT PLAN OUTLINE
+
+1. Title Page
+   - Fur and Feathers
+   - Class: CSD230: Advanced Web Development
+   - Team Members:
+	- Ashutosh Mishra
+	- Saddam Hussain Safi
+	- Sandip Khatri
+	- Nimesh Neupane
+
+2. Project Goal
+   - Build a secure and user-friendly platform for pet adoption.
+Provide AI-driven recommendations to match families with the right pets.
+Support shelters, fosters, and rescue groups with digital tools.
+Offer community features for pet care, donations, and sponsorships.
+
+3. Roles and Responsibilities
