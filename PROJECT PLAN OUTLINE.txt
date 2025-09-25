@@ -1,0 +1,20 @@
+PROJECT PLAN OUTLINE
+1. Title Page
+
+Project Name: Pet Network
+
+Class: CSD230: Advanced Web Development
+
+Team Members:
+
+Ashutosh Mishra
+
+Saddam Hussain Safi
+
+Sandip Khatri
+
+Nimesh Neupane
+
+2. Project Goal
+
+The overall objective of Pet Network is to create a responsive and user-friendly platform that connects pet lovers with shelters, fosters, and adoption opportunities. The project aims to promote pet adoption, provide useful resources for pet care, and strengthen community involvement through a modern, accessible web application.
