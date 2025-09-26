@@ -58,10 +58,21 @@ Final Week: Submit final project and presentation.
  	
 
 7. Risk Assessment
-   - Potential challenges or obstacles
-   - Mitigation strategies
+
+Technical Risks: Responsive issues across devices → Mitigation: Thorough cross-browser/device testing.
+
+Timeline Risks: Delays due to workload → Mitigation: Weekly milestones and progress reviews.
+
+Collaboration Risks: Miscommunication → Mitigation: Clear task assignment and weekly meetings.
+
+Knowledge Risks: Limited back-end expertise → Mitigation: Focus on front-end first, simplify back-end scope if needed.
 
 8. Communication and Work Plan
-   - How the team will collaborate
-   - Tools for communication
-   - Meeting schedule and reporting structure
+
+Collaboration Tools: GitHub for version control, Google Docs for documentation.
+
+Communication Tools: WhatsApp/Slack for daily updates, Zoom/Google Meet for weekly meetings.
+
+Meeting Schedule: Weekly team check-ins; emergency meetings as needed.
+
+Reporting Structure: Team leader gathers updates and ensures all tasks are aligned with the timeline.
