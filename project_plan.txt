@@ -39,7 +39,6 @@ Three-Column Section: Categories (Dogs, Cats, Others) with images, descriptions,
 Modal Pop-Ups: Additional information on adoption or pet profiles.
 Custom CSS Styling: Enhancing Bootstrap design with unique branding.
 
-
 5. Tools, Frameworks, and Libraries
    - Technologies chosen for development
 
